@@ -1,16 +1,74 @@
-[
-  {
-    "id": 1,
-    "question": "What is the capital of India?",
-    "options": ["Delhi", "Mumbai", "Kolkata", "Chennai"],
-    "answer": "Delhi",
-    "explanation": "Delhi has been the capital of India since 1911."
-  },
-  {
-    "id": 2,
-    "question": "Which is the largest planet in our solar system?",
-    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
-    "answer": "Jupiter",
-    "explanation": "Jupiter is the largest planet in our solar system."
-  }
-]
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital of India?",
+      "options": ["Delhi", "Mumbai", "Kolkata", "Chennai"],
+      "answer": "Delhi",
+      "explanation": "Delhi has been the capital of India since 1911."
+    },
+    {
+      "id": 2,
+      "question": "Which is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Jupiter",
+      "explanation": "Jupiter is the largest planet in our solar system."
+    },
+    {
+      "id": 3,
+      "question": "What is the chemical symbol for Gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "answer": "Au",
+      "explanation": "Au is the chemical symbol for Gold from Latin 'Aurum'."
+    },
+    {
+      "id": 4,
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "answer": "William Shakespeare",
+      "explanation": "William Shakespeare wrote the famous play 'Romeo and Juliet'."
+    },
+    {
+      "id": 5,
+      "question": "Which is the longest river in the world?",
+      "options": ["Amazon", "Nile", "Mississippi", "Yangtze"],
+      "answer": "Nile",
+      "explanation": "The Nile River is approximately 6,650 km long, making it the longest river in the world."
+    },
+    {
+      "id": 6,
+      "question": "What is the largest mammal in the world?",
+      "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "answer": "Blue Whale",
+      "explanation": "The Blue Whale is the largest mammal, reaching up to 100 feet in length and 200 tons in weight."
+    },
+    {
+      "id": 7,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars",
+      "explanation": "Mars appears red due to iron oxide (rust) on its surface."
+    },
+    {
+      "id": 8,
+      "question": "What is the capital of Japan?",
+      "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+      "answer": "Tokyo",
+      "explanation": "Tokyo is the capital and largest city of Japan."
+    },
+    {
+      "id": 9,
+      "question": "How many elements are in the periodic table?",
+      "options": ["92", "118", "108", "126"],
+      "answer": "118",
+      "explanation": "As of now, there are 118 confirmed elements in the periodic table."
+    },
+    {
+      "id": 10,
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+      "answer": "Leonardo da Vinci",
+      "explanation": "Leonardo da Vinci painted the Mona Lisa in the early 16th century."
+    }
+  ]
+}
